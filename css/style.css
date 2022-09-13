@@ -44,6 +44,8 @@ p {
     width: 40%;
     background-color: #3eba15;
     color: white;
+    display: inline-block;
+    
 }
 
 .contato-rigth {
@@ -110,7 +112,7 @@ iframe {
 }
 
 .rodape {
-    display: inline-block;
+    
     background-color: black;
     color: white;
 
@@ -118,7 +120,7 @@ iframe {
 
 .borda {
     border: 1px solid white;
-    width: 233px;
+    width: 243px;
     height: 40px;
     
 }
