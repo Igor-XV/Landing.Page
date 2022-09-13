@@ -1,0 +1,139 @@
+* {
+    text-decoration: none;
+}
+
+
+nav {
+    color: black;
+    text-align: right;
+    position: relative;
+    
+
+}
+
+#logo {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+header {
+    left: 10px;
+    top: 1px;
+   
+
+}
+
+div {
+    display: inline-block;
+
+}
+
+main>h3,
+p {
+    text-align: center;
+}
+
+
+.contato {
+    width: 100%;
+
+}
+
+.contato-left {
+    width: 40%;
+    background-color: #3eba15;
+    color: white;
+}
+
+.contato-rigth {
+    width: 60%;
+    background-color: white;
+    
+}
+
+.form {
+    margin: 5px;
+    width: 280px;
+    height: 30px;
+    
+}
+
+.sub {
+    margin: 5px;
+    width: 580px;
+    height: 30px;
+}
+
+.menssage {
+    margin: 5px;
+    width: 580px;
+    height: 130px;
+}
+
+.menssage2{
+    font-size: 20px;
+
+}
+
+
+.button {
+    border-radius: 20px;
+    padding: 10px 25px;
+    font-size: 12px;
+    background-color: #3eba15;
+    color: azure;
+}
+
+.buttonicons {
+    border-radius: 20px;
+    padding: 0.5px 0.8px;
+
+}
+
+.mapa {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+iframe {
+    margin: 0;
+}
+
+
+.verdura {
+    background-image: url(https://s3.bmp.ovh/imgs/2022/06/16/00239798b3282e3e.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.rodape {
+    display: inline-block;
+    background-color: black;
+    color: white;
+
+}
+
+.borda {
+    border: 1px solid white;
+    width: 233px;
+    height: 40px;
+    
+}
+
+.borda1 {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: none;
+    height: 30px;
+}
+
+.butao {
+    background-color: #3eba15;
+    color: white;
+    height:40px ;
+}
+
